@@ -1,6 +1,7 @@
 # Student Records Management System
 
 ## Description
+
 This project is a student record management system that allows users to manage students and their course enrollments. It is split into two parts:
 
 - **Question 1:** A MySQL database with SQL script
@@ -15,6 +16,3 @@ This project is a student record management system that allows users to manage s
 ```bash
 uvicorn main:app --reload
 ```
-
-## ERD Screenshot
-![ERD](https://via.placeholder.com/500x300?text=Student+Records+ERD)
